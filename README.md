@@ -2,7 +2,7 @@
 
 ## Description
 
-Building a Solidity smart contract using ether management funtions to implement a financial institution's requirements for providing the features of the joint savings account.  This contract accpets two user addresses that will be used to control the joint savings account created with the contract. 
+Building a Solidity smart contract using ether management funtions to implement a financial institution's requirements for providing the features of the joint savings account.  This contract accepts two user addresses that will be used to control the joint savings account created with the contract. 
 
 The sections of this project are as follows: 
 
